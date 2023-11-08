@@ -1,0 +1,5 @@
+logs/
+updates/
+plugin_config/
+.DS_Store
+profiler_data/
